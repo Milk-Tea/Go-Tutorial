@@ -14,5 +14,5 @@ cd lesson-xx-example
 go run .
 ```
 
-##Updates
+## Updates
 At the time of writing I am really just going through the docs on go.dev/doc/tutorial. 
