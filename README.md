@@ -15,4 +15,4 @@ go run .
 ```
 
 ## Updates
-At the time of writing I am really just going through the docs on go.dev/doc/tutorial. 
+2025-04-22 At the time of writing I am really just going through the docs on go.dev/doc/tutorial. 
